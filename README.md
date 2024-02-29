@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bala-skv
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...python,,dsa
+- 🌱 I’m currently learning ...python and c
 - 💞️ I’m looking to collaborate on ...python
 - 📫 How to reach me ...discord-bala#1221
 
