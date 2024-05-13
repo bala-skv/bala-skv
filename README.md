@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bala-skv
-- 👀 I’m interested in ...python,,dsa
-- 🌱 I’m currently learning ...python and c
-- 💞️ I’m looking to collaborate on ...python
-- 📫 How to reach me ...discord-bala#1221
+- 👋 Hi, I’m Balasubramanian k
+- 👀 I’m interested in ...algorithms and machine learning
+- 🌱 I’m currently learning ...data structures and algorithms
+- 💞️ I’m looking to collaborate on ...algorithmic analysis and design
+- 📫 How to reach me ...skv.balasubramanian@gmail.com
 
 <!---
 bala-skv/bala-skv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
